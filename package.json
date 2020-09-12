@@ -1,0 +1,20 @@
+{
+  "name": "team-benz-front-end",
+  "version": "1.0.0",
+  "description": "[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b4de99cb54f4fd890032eed7b4bd6f2)](https://app.codacy.com/manual/kallyasmedia/gitpod-custom?utm_source=github.com&utm_medium=referral&utm_content=kallyas/gitpod-custom&utm_campaign=Badge_Grade_Dashboard)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallyas/team-benz-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kallyas/team-benz-front-end/issues"
+  },
+  "homepage": "https://github.com/kallyas/team-benz-front-end#readme"
+}
